@@ -110,10 +110,10 @@ let antitrol = true
 
 let hit_today = []
 let blocked = []
-let limitawal = "100" 
+let limitawal = "500" 
 let namabot = setting.botname
 let owner_name = setting.ownername
-let owner_number = '6281939545441'
+let owner_number = '6282232806698'
 let gamewaktu = "3" 
 let numbernye = "0" 
 let simbolnya = "•"
